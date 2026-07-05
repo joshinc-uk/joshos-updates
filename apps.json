@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "Calculator",
+      "id": "calculator",
+      "version": "A001"
+    },
+    {
+      "name": "Notepad",
+      "id": "notepad",
+      "version": "A001"
+    }
+  ]
+}
