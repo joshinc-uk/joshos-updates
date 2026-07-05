@@ -1,5 +1,1 @@
-version.txt
-updates/
-  A002/
-    install.sh
-    changelog.txt
+JoshOS Alpha A002
