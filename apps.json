@@ -1,0 +1,6 @@
+apps/
+  calculator/install.sh
+  calculator/info.txt
+  notepad/install.sh
+  notepad/info.txt
+apps.json
